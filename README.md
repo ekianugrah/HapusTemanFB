@@ -5,6 +5,10 @@ Delete Non Aktif User Facebook
 
 Recode by Eki Anugrah Ramadhan
 
+## Alat Yang Diperlukan
+      - Aplikasi Browser (saya sarankan pake VIA Browser,biar garibet nyari AccessTokennya)
+      - Link untuk mengambil AccessToken (https://mobile.facebook.com/composer/ocelot/async_loader/?publisher=feed)
+
 ## Pemasangan
       $ pkg install php
       $ git clone https://github.com/ekianugrah/HapusTemanFB.git
